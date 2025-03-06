@@ -1,5 +1,4 @@
 # FilePlayer
-# FilePlayer
 
 ## Overview
 This is a C# console application that plays WAV files using `System.Media`. It allows users to select from three WAV files stored in the `bin\Debug\Music` folder, displays a menu, and changes the text color to green for files that have been played.
